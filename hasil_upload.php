@@ -1,4 +1,4 @@
-<?php
+ <?php
 // Baca lokasi file sementar dan nama file dari form (fupload)
 include('class.pdf2text.php');
 include_once 'IDNstemmer.php';
